@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Comment-Snippets",
+		"Emmet",
+		"Package Control",
+		"SASS Build",
+		"SCSS",
+		"SublimeOnSaveBuild"
+	]
+}
